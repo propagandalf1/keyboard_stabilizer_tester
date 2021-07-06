@@ -19,8 +19,8 @@ You gonna need for building this one:
   - 1x Bottom
   - 1x Plate
   - 7-8 Kailh hotswap sockets
-  - 4x M2x10mm screws
-  - 4x M2x5mm screws
+  - 8x M2x10mm screws
+  - 8x M2x5mm screws
   - 4x M2x10mm standoffs
   - 4x M2x15mm standoffs 
 
