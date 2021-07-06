@@ -6,6 +6,8 @@ You can add your favorite switches via hotswap sockets (preferably silent ones -
 
 also it got a plate, so you can check how your gonna sound like when they are installed.
 
+You gain access to the stabs from the bottom (its open) sou you can easily flip around the tool and screw in your stabs.
+
 ![Screenshot 2021-07-05 184032](https://user-images.githubusercontent.com/58786821/124573908-4286aa80-de4a-11eb-9835-e69b7bc0d6ac.png)
 
 
