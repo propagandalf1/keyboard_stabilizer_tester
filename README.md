@@ -4,7 +4,7 @@ This is a testing tool for keyboard stabilizers.
 
 You can add your favorite switches via hotswap sockets (preferably silent ones - so you can check on stab rattle), 
 
-also it got a plate, so you can check how your gonna sound like when they are installed.
+also it got a plate, so you can check how your caps/stabs gonna sound like when they are installed.
 
 You gain access to the stabs from the bottom (its open) sou you can easily flip around the tool and screw in your stabs.
 
