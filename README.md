@@ -8,7 +8,7 @@ also it got a plate, so you can check how your caps/stabs gonna sound like when 
 
 You gain access to the stabs from the bottom (its open) sou you can easily flip around the tool and screw in your stabs.
 
-![Screenshot 2021-07-05 184032](https://user-images.githubusercontent.com/58786821/124573908-4286aa80-de4a-11eb-9835-e69b7bc0d6ac.png)
+![render](https://user-images.githubusercontent.com/58786821/125602379-3d8c348a-175b-4b95-9d60-ef3e5a1bc6cd.png)
 
 
 ## Building it
