@@ -11,7 +11,6 @@ You gain access to the stabs from the bottom (its open) sou you can easily flip 
 
 ![render2](https://user-images.githubusercontent.com/58786821/125615997-eb5e8854-a188-4a17-9942-26a2425b1c4b.PNG)
 
-
 ## Building it
 
 You gonna need for building this one:
