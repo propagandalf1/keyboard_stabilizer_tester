@@ -15,14 +15,13 @@ You gain access to the stabs from the bottom (its open) sou you can easily flip 
 
 You gonna need for building this one:
   
-  - 1x PCB
-  - 1x Bottom
-  - 1x Plate
-  - 7-8 Kailh hotswap sockets
-  - 8x M2x10mm screws
-  - 8x M2x5mm screws
-  - 4x M2x10mm standoffs
-  - 4x M2x15mm standoffs 
+  - 1x  PCB
+  - 1x  Bottom
+  - 1x  Plate
+  - 8x  Kailh hotswap sockets
+  - 16x M2x5mm screws
+  - 4x  M2x10mm standoffs
+  - 4x  M2x15mm standoffs 
 
 ## Whats to test
 
