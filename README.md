@@ -35,6 +35,15 @@ Cap sizes that are useable
   - 3U, 2.75U, 2.5U
   - 2.25U, 2U
 
+## Changelog
+V1.1
+  - adjusted holes for the standoffs to push through
+  - added 3U support for the plate
+
+## Things to do
+
+  - improve or rework the plate for better accessability of the stabs
+
 ## Thanks to
 
 [ebastler](https://github.com/ebastler) for the support, idea and suggestions while creating this
